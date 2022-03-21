@@ -8,3 +8,6 @@
 1093952032/1093952032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+$ export SECRET_TOKEN=your_token
+
+ Expire user authorization tokens87143f2e-54fa-45ce-a84b-b7c4754b010e87143f2e-54fa-45ce-a84b-b7c4754b010e$ export SECRET_TOKEN=your_token34.107.102.192
